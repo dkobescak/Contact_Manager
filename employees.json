@@ -1,0 +1,39 @@
+[
+    {
+        "1": {
+            "Name": "pero",
+            "Surname": "peric",
+            "OIB": 12345,
+            "Address": "dfgfg",
+            "Phone": "1234"
+        }
+    },
+    {
+        "2": {
+            "Name": "jura",
+            "Surname": "juric",
+            "OIB": 34567,
+            "Address": "dffghfj",
+            "Phone": "333"
+        }
+    },
+    {
+        "1": {
+            "Name": "fghgfh",
+            "Surname": "fghfgh",
+            "OIB": 213253,
+            "Address": "fdgfdhfh",
+            "Phone": "4567"
+        }
+    },
+    {
+        "1": {
+            "Name": "dsfgdfg",
+            "Surname": "sdfsdf",
+            "OIB": 1234556,
+            "Function": "sdgghf",
+            "Address": "sdgdfh",
+            "Phone": "325346"
+        }
+    }
+]
